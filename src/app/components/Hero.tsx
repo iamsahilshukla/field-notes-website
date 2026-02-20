@@ -10,7 +10,7 @@ export function Hero({ onExploreClick }: HeroProps) {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1728584387930-d5d63b375aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmaWVsZCUyMHJlc2VhcmNoJTIwcnVyYWwlMjBpbmRpYSUyMHN1cnZleXxlbnwxfHx8fDE3NzE1NzMxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="/hero-section-image.jpeg"
           alt="Field Research"
           className="w-full h-full object-cover"
         />
@@ -20,13 +20,13 @@ export function Hero({ onExploreClick }: HeroProps) {
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="max-w-3xl">
-          <h1 
+          <h1
             className="text-5xl md:text-6xl lg:text-7xl text-white mb-6 leading-tight"
             style={{ fontFamily: 'var(--font-serif)' }}
           >
             Evidence-Based Research for Impactful Decisions
           </h1>
-          <p 
+          <p
             className="text-xl md:text-2xl text-gray-100 mb-10 leading-relaxed"
             style={{ fontFamily: 'var(--font-sans)' }}
           >
