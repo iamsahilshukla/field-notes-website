@@ -1,11 +1,30 @@
+# Field Notes Research Consultancy
 
-  # Single-Page Consultancy Website
+A modern, single-page consultancy website for Field Notes Research Consultancy Pvt. Ltd.
 
-  This is a code bundle for Single-Page Consultancy Website. The original project is available at https://www.figma.com/design/hAPK4rV8FEMhL4V5ua32R2/Single-Page-Consultancy-Website.
+## Overview
 
-  ## Running the code
+This website provides a sophisticated and professional online presence for Field Notes, highlighting their services in field research, surveys, and evaluations for government agencies, NGOs, and market entities.
 
-  Run `npm i` to install the dependencies.
+## Development
 
-  Run `npm run dev` to start the development server.
-  
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## Technologies
+
+- React 18
+- Vite
+- Tailwind CSS 4
+- Lucide React (Icons)
+- Custom Typography (Inter & Volkhov)
