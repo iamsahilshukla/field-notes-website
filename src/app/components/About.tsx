@@ -6,7 +6,7 @@ export function About() {
           {/* Image */}
           <div className="order-2 md:order-1">
             <img
-              src="https://images.unsplash.com/photo-1743183988574-e8b4d2e5830a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHlzaXMlMjByZXNlYXJjaCUyMHByb2Zlc3Npb25hbHxlbnwxfHx8fDE3NzE1NzMxMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="/our-mission.jpeg"
               alt="Data Analysis"
               className="w-full h-[500px] object-cover rounded-lg shadow-xl"
             />
@@ -17,7 +17,7 @@ export function About() {
             <div className="inline-block px-4 py-1 bg-[#d97706]/10 text-[#d97706] rounded-full mb-6" style={{ fontFamily: 'var(--font-sans)' }}>
               About Us
             </div>
-            <h2 
+            <h2
               className="text-4xl md:text-5xl text-[#1e293b] mb-6"
               style={{ fontFamily: 'var(--font-serif)' }}
             >

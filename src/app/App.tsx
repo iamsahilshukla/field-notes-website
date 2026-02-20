@@ -2,6 +2,7 @@ import { Navigation } from './components/Navigation';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
 import { Services } from './components/Services';
+import { OurWork } from './components/OurWork';
 import { Team } from './components/Team';
 import { Contact } from './components/Contact';
 
@@ -24,6 +25,7 @@ export default function App() {
       <Hero onExploreClick={scrollToServices} />
       <About />
       <Services />
+      <OurWork />
       <Team />
       <Contact />
     </div>

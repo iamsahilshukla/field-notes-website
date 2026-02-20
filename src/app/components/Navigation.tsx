@@ -20,7 +20,7 @@ export function Navigation() {
           {/* Logo */}
           <div className="flex items-center">
             <img
-              src="/logo.jpeg"
+              src="/F_logo_proper.png"
               alt="Field Notes Research Logo"
               className="h-12 w-auto object-contain mix-blend-multiply"
             />
@@ -41,6 +41,13 @@ export function Navigation() {
               style={{ fontFamily: 'var(--font-sans)' }}
             >
               Services
+            </button>
+            <button
+              onClick={() => scrollToSection('work')}
+              className="text-gray-700 hover:text-[#1e3a8a] transition-colors"
+              style={{ fontFamily: 'var(--font-sans)' }}
+            >
+              Our Work
             </button>
             <button
               onClick={() => scrollToSection('team')}
