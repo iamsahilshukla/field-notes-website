@@ -33,7 +33,7 @@ const services = [
   },
   {
     icon: FileBarChart,
-    title: 'Data Analysis & Landscape Reporting',
+    title: 'Data Analysis & Landscape Reports',
     description: 'Sophisticated data processing and comprehensive landscape reports that transform raw data into strategic insights.',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZXBvcnQlMjBkZXNrfGVufDB8fHx8MTc3MTU4ODAyOHww&ixlib=rb-4.1.0&q=80&w=400&utm_source=figma&utm_medium=referral'
   }
