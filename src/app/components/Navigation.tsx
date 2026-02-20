@@ -20,7 +20,7 @@ export function Navigation() {
           {/* Logo */}
           <div className="flex items-center">
             <img
-              src="/F_logo_proper.png"
+              src="/brand/F_logo_proper.png"
               alt="Field Notes Research Logo"
               className="h-12 w-auto object-contain mix-blend-multiply"
             />

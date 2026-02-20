@@ -1,57 +1,57 @@
-const teamMembers = [  {
-    name: 'Rajan Pandey',
-    role: 'Director',
-    bio: 'Contributing expert to our research consultancy initiatives.',
-    image: '/rajan-pandey.jpeg'
-  },
-  {
-    name: 'Kalyan Swarup',
-    role: 'Policy Analyst | Research Communicator',
-    bio: 'Expert in translating complex policy research into actionable insights for stakeholders.',
-    image: '/kalyan-swarup.jpeg'
-  },
-  {
-    name: 'Gaurav Gulmohar',
-    role: 'Community Issues Researcher',
-    bio: 'Specializes in grassroots engagement and community-centered research methodologies.',
-    image: '/gaurav.jpeg'
-  },
-  {
-    name: 'Atul Kumar Pandey',
-    role: 'Communications Researcher | Digital Strategy Consultant',
-    bio: 'Bridges research findings with digital communication strategies for maximum impact.',
-    image: '/atul-kumar.jpeg'
-  },
-  {
-    name: 'Suryaprakash Kaswan',
-    role: 'Strategic Analyst | Policy Enthusiast',
-    bio: 'Drives strategic analysis with a focus on evidence-based policy recommendations.',
-    image: '/surya-prakash.jpeg'
-  },
-  {
-    name: 'Aishwarya D. Meshram',
-    role: 'Media Researcher | Trainer',
-    bio: 'Combines media research expertise with training initiatives for capacity building.',
-    image: '/aishwarya.jpeg'
-  },
-  {
-    name: 'Abhishek Raj',
-    role: 'Project Strategist | Operations Specialist',
-    bio: 'Ensures seamless project execution through strategic planning and operational excellence.',
-    image: '/abhishek-raj.jpeg'
-  },
-  {
-    name: 'Ananya Shukla',
-    role: 'Growth Strategist | Organizational Development Advisor',
-    bio: 'Focuses on sustainable growth strategies and organizational capacity development.',
-    image: '/ananya-shukla.jpeg'
-  },
-  {
-    name: 'Hasna K. H.',
-    role: 'Media Strategist | Gender & Public Policy Researcher',
-    bio: 'Integrates gender perspectives into public policy research and media strategy.',
-    image: '/hasna-Kh.jpeg'
-  }
+const teamMembers = [{
+  name: 'Rajan Pandey',
+  role: 'Director',
+  bio: 'Contributing expert to our research consultancy initiatives.',
+  image: '/team/rajan-pandey.jpeg'
+},
+{
+  name: 'Kalyan Swarup',
+  role: 'Policy Analyst | Research Communicator',
+  bio: 'Expert in translating complex policy research into actionable insights for stakeholders.',
+  image: '/team/kalyan-swarup.jpeg'
+},
+{
+  name: 'Gaurav Gulmohar',
+  role: 'Community Issues Researcher',
+  bio: 'Specializes in grassroots engagement and community-centered research methodologies.',
+  image: '/team/gaurav.jpeg'
+},
+{
+  name: 'Atul Kumar Pandey',
+  role: 'Communications Researcher | Digital Strategy Consultant',
+  bio: 'Bridges research findings with digital communication strategies for maximum impact.',
+  image: '/team/atul-kumar.jpeg'
+},
+{
+  name: 'Suryaprakash Kaswan',
+  role: 'Strategic Analyst | Policy Enthusiast',
+  bio: 'Drives strategic analysis with a focus on evidence-based policy recommendations.',
+  image: '/team/surya-prakash.jpeg'
+},
+{
+  name: 'Aishwarya D. Meshram',
+  role: 'Media Researcher | Trainer',
+  bio: 'Combines media research expertise with training initiatives for capacity building.',
+  image: '/team/aishwarya.jpeg'
+},
+{
+  name: 'Abhishek Raj',
+  role: 'Project Strategist | Operations Specialist',
+  bio: 'Ensures seamless project execution through strategic planning and operational excellence.',
+  image: '/team/abhishek-raj.jpeg'
+},
+{
+  name: 'Ananya Shukla',
+  role: 'Growth Strategist | Organizational Development Advisor',
+  bio: 'Focuses on sustainable growth strategies and organizational capacity development.',
+  image: '/team/ananya-shukla.jpeg'
+},
+{
+  name: 'Hasna K. H.',
+  role: 'Media Strategist | Gender & Public Policy Researcher',
+  bio: 'Integrates gender perspectives into public policy research and media strategy.',
+  image: '/team/hasna-Kh.jpeg'
+}
 ];
 
 export function Team() {

@@ -6,7 +6,7 @@ export function About() {
           {/* Image */}
           <div className="order-2 md:order-1">
             <img
-              src="/our-mission.jpeg"
+              src="/about/our-mission.jpeg"
               alt="Data Analysis"
               className="w-full h-[500px] object-cover rounded-lg shadow-xl"
             />

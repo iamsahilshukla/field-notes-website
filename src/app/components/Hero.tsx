@@ -10,7 +10,7 @@ export function Hero({ onExploreClick }: HeroProps) {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/hero-section-image.jpeg"
+          src="/hero/hero-section-image.jpeg"
           alt="Field Research"
           className="w-full h-full object-cover"
         />

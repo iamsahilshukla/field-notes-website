@@ -6,7 +6,7 @@ const works = [
         date: 'Dec 31, 2024',
         title: 'Nationwide Field Research Operations',
         description: 'Within six months of its formation, team Fieldnotes has completed multiple field research projects- from the sea coasts of Kerala and Andhra Pradesh in South to the mighty Himalayas of Himachal Pradesh and Gangetic plains of UP in the north...',
-        imageUrl: '/work-3.jpeg',
+        imageUrl: '/work/work-3.jpeg',
         link: 'https://www.linkedin.com/posts/field-notes-research_within-six-months-of-its-formation-team-activity-7284064778350706689-nTZ9',
         span: 'md:col-span-2 md:row-span-2' // Larger feature item
     },
@@ -15,7 +15,7 @@ const works = [
         date: 'Feb 13, 2025',
         title: 'Evaluating the Drone Theft Scare in UP',
         description: 'Is Drone Theft scare the new “Bachcha Chor” rumour which caused havoc in last decade? UP is under the grip of fear and mistrust caused by the Drone Chor phenomenon. Villagers across the state suspect that thieves are using modern technology like drones to do aerial surveillance...',
-        imageUrl: '/work-2.jpeg',
+        imageUrl: '/work/work-2.jpeg',
         link: 'https://www.linkedin.com/posts/rajan-pandey-b4766b97_is-drone-theft-scare-the-new-bachcha-chor-activity-7381584616467386368-7qPY',
         span: 'md:col-span-1 md:row-span-2' // Tall vertical item
     },
@@ -24,7 +24,7 @@ const works = [
         date: 'Feb 26, 2026',
         title: '9 States Field Surveys Concluded',
         description: 'Over past 2 months, our teams have finished field surveys in 9 states- from the sea coast of Kerala to snow capped mountains of Himachal Pradesh and from the deserts of Barmer in Rajasthan to the hills of Nagaland.',
-        imageUrl: '/work-1.jpeg',
+        imageUrl: '/work/work-1.jpeg',
         link: 'https://www.linkedin.com/posts/rajan-pandey-b4766b97_over-past-2-months-our-teams-have-finished-activity-7429555505993388032-aZ6b',
         span: 'md:col-span-2 md:row-span-1' // Wide rectangle
     },
@@ -33,7 +33,7 @@ const works = [
         date: 'Oct 8, 2025',
         title: 'Drone technology is gradually entering rural Indian agriculture',
         description: 'Drone technology is gradually entering rural Indian agriculture, though its adoption remains largely concentrated in advanced farming states, as seen in a drone spray service advertisement in Haryana’s Kaithal district.',
-        imageUrl: '/work-4.jpeg',
+        imageUrl: '/work/work-4.jpeg',
         link: 'https://www.linkedin.com/posts/field-notes-research_the-much-talked-about-drone-technology-in-activity-7235631397716041728-DqsD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACit_M8BsATGjPJGUz4RGuB5p-i_rVKAjJI',
         span: 'md:col-span-1 md:row-span-1' // Standard square
     },
