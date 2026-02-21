@@ -5,7 +5,7 @@ const teamMembers = [
   {
   name: 'Rajan Pandey',
   role: 'Director',
-  bio: 'Contributing expert to our research consultancy initiatives.',
+  bio: 'Dr. Rajan Pandey is the co-author of “Battleground UP: Politics in The Land of Ram”(Westland-Tranquebar). He has led many projects in Survey Research and Impact Evaluation. A Strong media and communication professional with expertise in on-field research, Dr. Pandey is a social scientist with Post-Doc fellowship from IISER Mohali and PhD in Political Science from Jawaharlal Nehru University, having a strong focus on action research. He worked as an Assistant Professor at Christ University, Bengaluru and has a more than 10 years experience in election surveys and development sector field surveys. He has also published papers in several International Journals as well as newspapers and media platforms like The Hindu, New Indian Express, The Wire etc on various topics including Politics and governance.',
   image: '/team/rajan-pandey.jpeg'
 },
   {
