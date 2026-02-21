@@ -84,11 +84,11 @@ export function Contact() {
                 </div>
                 <h4 className="text-lg font-medium mb-3 text-[#1e293b]" style={{ fontFamily: 'var(--font-serif)' }}>Inquiries</h4>
                 <a
-                  href="mailto:info@fieldnotesresearch.com"
+                  href="mailto:director@fieldnotes.co.in"
                   className="text-gray-600 hover:text-[#d97706] transition-colors text-lg font-light block"
                   style={{ fontFamily: 'var(--font-sans)' }}
                 >
-                  info@fieldnotesresearch.com
+                  director@fieldnotes.co.in
                 </a>
               </div>
 
